@@ -17,6 +17,6 @@ form:  <form>
 NAV: <nav>
 aside: <aside>
 table:  <table>
- table row: <tr>
-  table head: <th>
-  table data : <td>
+table row: <tr>
+table head: <th>
+table data : <td>
